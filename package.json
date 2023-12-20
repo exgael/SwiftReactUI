@@ -4,7 +4,7 @@
   "description": "React components giving swift UI like experience",
   "main": "dist/main.ts",
   "files": [
-    "src/**/*"
+    "dist/**/*"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
