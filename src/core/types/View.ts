@@ -1,6 +1,6 @@
 import React, {RefObject} from "react";
 
-type View = {
+export type View = {
     style: Record<string, any>;
     events: {
         onClick?: () => void;
